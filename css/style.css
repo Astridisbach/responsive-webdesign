@@ -316,7 +316,7 @@ footer {
 
     /* desktop setting */
     /* set min width to 1100 pixels */
-    @media only screen and () {
+    @media only screen and (min-width: 110px) {
         header {
             background-color: black;
         }
