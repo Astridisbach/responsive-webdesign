@@ -286,13 +286,14 @@ footer {
         /* Flex Container */
         .flex-container {
             /* Enable flex display and flex-wrap */
-            
+
          
         }
     
         article {
             /* Set width to 46% and margin to 1% */
-           
+           width: 46%;
+           margin: 1%;
         }
 
         #dumperimg {
