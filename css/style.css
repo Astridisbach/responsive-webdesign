@@ -239,6 +239,7 @@ footer {
         }
     
         #navigation-desktop li {
+            display: inline;
             /* Display items inline */
             /* display: ___; */
         }
