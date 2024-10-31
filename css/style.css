@@ -245,6 +245,11 @@ footer {
         }
     
         #navigation-desktop li a {
+            color: white;
+            text-decoration: none;
+            font-size: 1.6rem;
+            margin: 2%;
+            padding: 2%;
             /* Set color to white, remove underline, and add font size 1.6rem, margin 2%, and padding 2% */
             /* color: ___; */
             /* text-decoration: ___; */
@@ -254,6 +259,7 @@ footer {
         }
     
         #navigation-desktop li a:hover {
+            text-decoration: underline;
             /* Set underline on hover */
             /* text-decoration: ___; */
         }
