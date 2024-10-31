@@ -225,11 +225,14 @@ footer {
     
         /* Navigation */
         #navigation-icon {
+            display: none;
             /* Hide navigation icon */
             /* display: ___; */
         }
     
         #navigation-desktop {
+            display: block;
+            text-align: right;
             /* Show desktop navigation (hint value Display: block) and align text to the right */
             /* display: ___; */
             /* text-align: ___; */
