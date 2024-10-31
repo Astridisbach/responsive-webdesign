@@ -225,6 +225,7 @@ footer {
     
         /* Navigation */
         #navigation-icon {
+            display: none;
             /* Hide navigation icon */
             /* display: ___; */
         }
