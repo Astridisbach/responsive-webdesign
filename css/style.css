@@ -292,9 +292,10 @@ footer {
     
         /* Flex Container */
         .flex-container {
+            display: flex;
+            flex-wrap: wrap;
             /* Enable flex display and flex-wrap */
 
-         
         }
     
         article {
