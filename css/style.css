@@ -196,6 +196,7 @@ footer {
 
     /* Logo */
     #logo2 {
+        max-width: 60px;
         /* Set max-width to 60px */
         
     }
