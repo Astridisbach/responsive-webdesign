@@ -268,18 +268,22 @@ footer {
         /* Footer */
         footer {
             /* Set background color to black and text color to white */
+            background-color: #000;
+            text-decoration: #FFF;
             
         }
     
         /* Content */
         section {
             /* Add padding of 2% */
+            padding: 2%;
           
         }
     
         /* Flex Container */
         .flex-container {
             /* Enable flex display and flex-wrap */
+            
          
         }
     
