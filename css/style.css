@@ -170,14 +170,18 @@ footer {
     #dumperimg {
         width: 60%;
         padding: 2%;
-        float:;
+        float:right;
+        clear: right;
         /* Set width to 60%, padding of 2%, float to right, and clear to right */
       
     }
 
     #trumpimg, #designskoleimg {
         /* Set width to 60%, padding of 2%, float to the left and clear to left */
-       
+       width: 60%;
+       padding: 2%;
+       float: left;
+       clear: left;
     }
 
     #designskoleimg {
