@@ -186,7 +186,10 @@ footer {
 
     #designskoleimg {
         /* Set width to 60%, padding of 2%, float to the right and clear to right */
-       
+       width: 60%;
+       padding:2%;
+       float: right;
+       clear: right;
     }
 
 
