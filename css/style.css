@@ -154,18 +154,23 @@ footer {
 @media only screen and (min-width: 500px) {
     /* Header */
     header {
+        background-color: white;
         /* Set the background color to white */
         
     }
 
     /* Body */
     body {
+        background-color: whitesmoke;
         /* Set background color to a light gray (whitesmoke) */
         
     }
 
     /* Images */
     #dumperimg {
+        width: 60%;
+        padding: 2%;
+        float:;
         /* Set width to 60%, padding of 2%, float to right, and clear to right */
       
     }
